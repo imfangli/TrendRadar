@@ -1,5 +1,7 @@
 Microsoft
 
+github
+
 蔚来
 nio
 
@@ -9,8 +11,17 @@ NVIDIA
 
 AMD
 
+GPU
+
 bilibili
 哔哩哔哩
+
+字节跳动
+抖音
+tiktok
+
+腾讯
+微信
 
 谷歌
 google
@@ -48,5 +59,9 @@ ai
 科技
 
 低代码
+
 卫星
+
 应急
+
+软件
