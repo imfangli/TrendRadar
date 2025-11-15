@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "daily" # 可选: "daily"|"incremental"|"current"
+  mode: "incremental" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
@@ -79,8 +79,12 @@ weight:
 platforms:
   - id: "toutiao"
     name: "今日头条"
-  - id: "baidu"
-    name: "百度热搜"
+  - id: "sspai"
+    name: "少数派"
+  - id: "ithome"
+    name: "IT之家"
+  - id: "hackernews"
+    name: "Hacker News"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
   - id: "thepaper"
@@ -91,11 +95,5 @@ platforms:
     name: "财联社热门"
   - id: "ifeng"
     name: "凤凰网"
-  - id: "tieba"
-    name: "贴吧"
-  - id: "weibo"
-    name: "微博"
-  - id: "douyin"
-    name: "抖音"
   - id: "zhihu"
     name: "知乎"
