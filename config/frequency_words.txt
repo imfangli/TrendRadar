@@ -15,6 +15,7 @@ GPU
 
 bilibili
 哔哩哔哩
+B站
 
 字节跳动
 抖音
